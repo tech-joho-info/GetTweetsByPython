@@ -1,0 +1,8 @@
+APP_KEY = ''
+APP_SECRET = ''
+
+ACCESS_TOKEN = ''
+ACCESS_TOKEN_SECRET = ''
+
+MYSQL_USER = ''
+MYSQL_PASS = ''
